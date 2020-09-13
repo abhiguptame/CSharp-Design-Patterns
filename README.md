@@ -43,5 +43,8 @@ Define an interface for creating an object, but let subclass decide which class 
 Providing an interface for creating families of related or dependent objects without specifying their concrete classes.
 Ultimately a factory for other factories.
 
+## Singleton Pattern:
+### => Gang of Four
+Ensures a class has only one instance, and provides a global point of access to it.
 
 
