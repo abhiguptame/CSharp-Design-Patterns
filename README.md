@@ -34,5 +34,9 @@
 ### => Ignore implementation details
 ### => Write understandable, testable, and maintainable solutions
 
+## Factory Method Pattern:
+### => Gang Of Four:
+Define an interface for creating an object, but let subclass decide which class to instantiate. This lets a class defer instantiation to subclass.
+
 
 
