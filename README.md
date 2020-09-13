@@ -71,6 +71,9 @@ A repository separates the business logic from the interactions with the underly
 
 > Using a repository allows us to create an abstractions between an application and its data layer.
 
+## Unit of Work Pattern:
+* Martin Fowler's:
+Maintains a list of objects affected by a business transaction and coordinates the writing out of changes and the resolution of concurrency problems.
 
 
 
