@@ -47,4 +47,11 @@ Ultimately a factory for other factories.
 ### => Gang of Four
 Ensures a class has only one instance, and provides a global point of access to it.
 
+## Decorator/Wrapper Pattern:
+### => Gang of Four:
+Attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
+
+=> Using composition to limit inheritance and simplify object relationships to make more manageable.
+
+
 
