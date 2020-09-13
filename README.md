@@ -7,6 +7,10 @@
 ### => 4) John Vlissides
 
 ## Design Pattern Categories:
+### => 1) Creational: Object creation mechanisms
+### => 2) Structural: Class and object composition
+### => 3) Behavioural: Communication between objects
+
 | Creational | Structural | Behavioural |
 |------------|------------|-------------|
 | **Abstract Factory**  | Adapter | Chain of Responsibility |
@@ -29,5 +33,6 @@
 ### => Produce high-level solutions
 ### => Ignore implementation details
 ### => Write understandable, testable, and maintainable solutions
+
 
 
