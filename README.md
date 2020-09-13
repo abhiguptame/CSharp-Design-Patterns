@@ -20,3 +20,7 @@
 ||| Strategy |
 ||| Template Method |
 ||| Visitor |
+
+## Non Gang of Four Pattern Used in .NET:
+### => 1) Repository pattern
+### => 2) Unit of Work pattern
