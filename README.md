@@ -35,8 +35,13 @@
 ### => Write understandable, testable, and maintainable solutions
 
 ## Factory Method Pattern:
-### => Gang Of Four:
+### => Gang of Four:
 Define an interface for creating an object, but let subclass decide which class to instantiate. This lets a class defer instantiation to subclass.
+
+## Abstract Factory Pattern:
+### => Gang of Four:
+Providing an interface for creating families of related or dependent objects without specifying their concrete classes.
+Ultimately a factory for other factories.
 
 
 
