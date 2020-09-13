@@ -53,5 +53,11 @@ Attaches additional responsibilities to an object dynamically. Decorators provid
 
 => Using composition to limit inheritance and simplify object relationships to make more manageable.
 
+## Iterator Pattern:
+### => Gang of Four:
+Provide a way to access the elements of an aggregate object sequentially without exposing its undelying representation.
+
+=> Provides a way to access and iterate through collections in the same way, regardless of type.
+
 
 
