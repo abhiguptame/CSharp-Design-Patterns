@@ -65,6 +65,15 @@ Defines a one-to-many dependency between objects so that when one object changes
 
 > Change in one object causes a change or action in another.
 
+## Repository Pattern:
+* MSDB
+A repository separates the business logic from the interactions with the underlying data source.
+
+> Using a repository allows us to create an abstractions between an application and its data layer.
+
+
+
+
 
 
 
