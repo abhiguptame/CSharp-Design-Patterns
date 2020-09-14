@@ -103,6 +103,7 @@ Converts the interface of a class into another interface that clients expect.
 
 ## Command Pattern:
 * Gang of Four:
+
 Encapsulates a request as an object, thereby letting us parameterize clients with different requests, queue or log request, and support undoable operation.
 
 > Uses an object to store required information to perform an action at any point in time.
