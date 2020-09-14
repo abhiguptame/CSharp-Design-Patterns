@@ -89,8 +89,8 @@ Converts the interface of a class into another interface that clients expect.
 
 ## Composite Pattern:
 * Gang of Four:
-- Composes objects into tree structures to represent part-whole hierarchies.
-- Lets clients trat individual objects and compositions of objects uniformly.
+> - Composes objects into tree structures to represent part-whole hierarchies.
+> - Lets clients trat individual objects and compositions of objects uniformly.
 
 > All about treating a group of objects and a single object as the same, while they can be different.
 
