@@ -94,8 +94,10 @@ Converts the interface of a class into another interface that clients expect.
 
 > All about treating a group of objects and a single object as the same, while they can be different.
 
+## Chain of Responsibility:
+* Gang of Four:
+> - Avoid coupling the sender of a request to its receiver by giving more than one object a chance to handle the request.
+> - Chains the receiving objects and passes the request along the chain until an object handles it.
 
-
-
-
+> Passing on the responsibility of a task from one object to another, and so forth, until an object accepts the responsibility and completes it.
 
