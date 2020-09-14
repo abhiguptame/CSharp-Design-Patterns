@@ -108,6 +108,14 @@ Encapsulates a request as an object, thereby letting us parameterize clients wit
 
 > Uses an object to store required information to perform an action at any point in time.
 
+## Interpreter Pattern:
+* Gang of Four:
+Given a language, defines a representation for its grammar along with an interpreter that uses the representation to interpret sentences in the language.
+
+> A translator
+
+
+
 
 
 
