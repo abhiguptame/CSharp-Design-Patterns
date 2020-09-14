@@ -75,6 +75,11 @@ A repository separates the business logic from the interactions with the underly
 * Martin Fowler's:
 Maintains a list of objects affected by a business transaction and coordinates the writing out of changes and the resolution of concurrency problems.
 
+## Builder:
+* Gang of Four:
+Separates the construction of a complex object from its representation so that the same construction process can create different representations.
+
+> A pattern that lets us separate and reuse a specific process to build something.
 
 
 
