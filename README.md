@@ -160,3 +160,9 @@ Uses sharing to support large numbers of fine-grained objects efficiently.
 
 > Eliminates the need of creating new object that already exist by sharing existing one.
 
+## Proxy Pattern:
+* Gang of Four:
+
+Provides a surrogate or placeholder for another object to control access to it.
+
+> Provides objects that refernce objects for their functionality.
