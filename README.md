@@ -182,6 +182,19 @@ Without violating encapsulation, captures and externalizes an object's internal 
 
 > Allows an object to change what it does based on its current state.
 
+## Strategy Pattern:
+* Gang of Four:
+
+> - Defines a family of algorithms, encapsulates each one, and makes them interchangeable.
+> - Strategy lets the algorithm vary independently from clients that use it.
+
+> Allows a client to choose an algorithm from a group of algorithms and gives it a simple way to access it.
+
+
+
+
+
+
 
 
 
