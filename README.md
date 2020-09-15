@@ -153,3 +153,10 @@ Decouple an abstraction from its implementation so that the two can vary indepen
 
 > Used to hide the complexities of the system and provides an interface to the client.
 
+## Flyweight Pattern:
+* Gang of Four:
+
+Uses sharing to support large numbers of fine-grained objects efficiently.
+
+> Eliminates the need of creating new object that already exist by sharing existing one.
+
