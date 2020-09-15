@@ -131,6 +131,75 @@ Given a language, defines a representation for its grammar along with an interpr
 
 > Lets us add and perform new functionality on objects without changing its structure which might cause problems.
 
+## Prototype Pattern:
+* Gang of Four:
+
+Specifies the kinds of objects to create using a prototypical instance and creates new objects by copying this prototype.
+
+> The goal of the prototype pattern is to create an object based on another object.
+
+## Bridge Pattern:
+* Gang of Four:
+
+Decouple an abstraction from its implementation so that the two can vary independently.
+
+> Used to separate an abstraction from its implementation so both are modified independently.
+
+## Facade Pattern:
+* Gang of Four:
+
+> - Provides a unified interface to a set of interfaces in subsystem.
+> - Defines a higher-level interface that makes the subsystem easier to use.
+
+> Used to hide the complexities of the system and provides an interface to the client.
+
+## Flyweight Pattern:
+* Gang of Four:
+
+Uses sharing to support large numbers of fine-grained objects efficiently.
+
+> Eliminates the need of creating new object that already exist by sharing existing one.
+
+## Proxy Pattern:
+* Gang of Four:
+
+Provides a surrogate or placeholder for another object to control access to it.
+
+> Provides objects that refernce objects for their functionality.
+
+## Memento Pattern:
+* Gang of Four:
+
+Without violating encapsulation, captures and externalizes an object's internal state so that the object can be restored to this state later.
+
+> Used to track states of an object to go back and forth to.
+
+## State Pattern:
+* Gang of Four:
+
+> - Allows an object to alter its behaviour when its internal state changes.
+> - The object will appear to change its class.
+
+> Allows an object to change what it does based on its current state.
+
+## Strategy Pattern:
+* Gang of Four:
+
+> - Defines a family of algorithms, encapsulates each one, and makes them interchangeable.
+> - Strategy lets the algorithm vary independently from clients that use it.
+
+> Allows a client to choose an algorithm from a group of algorithms and gives it a simple way to access it.
+
+## Template Method Pattern:
+* Gang of Four:
+
+> - Defines the skelton of an algorithm in an operation, deferring some steps to subclasses.
+> - Lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure.
+
+> Allows child classes to change some steps of an algorithm without changing the algorithm's structure.
+
+
+
 
 
 
