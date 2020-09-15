@@ -174,6 +174,17 @@ Without violating encapsulation, captures and externalizes an object's internal 
 
 > Used to track states of an object to go back and forth to.
 
+## State Pattern:
+* Gang of Four:
+
+> - Allows an object to alter its behaviour when its internal state changes.
+> - The object will appear to change its class.
+
+> Allows an object to change what it does based on its current state.
+
+
+
+
 
 
 
