@@ -145,6 +145,11 @@ Decouple an abstraction from its implementation so that the two can vary indepen
 
 > Used to separate an abstraction from its implementation so both are modified independently.
 
+## Facade Pattern:
+* Gang of Four:
 
+> - Provides a unified interface to a set of interfaces in subsystem.
+> - Defines a higher-level interface that makes the subsystem easier to use.
 
+> Used to hide the complexities of the system and provides an interface to the client.
 
