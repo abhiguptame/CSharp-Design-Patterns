@@ -131,6 +131,12 @@ Given a language, defines a representation for its grammar along with an interpr
 
 > Lets us add and perform new functionality on objects without changing its structure which might cause problems.
 
+## Prototype Pattern:
+* Gang of Four:
+
+Specifies the kinds of objects to create using a prototypical instance and creates new objects by copying this prototype.
+
+> The goal of the prototype pattern is to create an object based on another object.
 
 
 
