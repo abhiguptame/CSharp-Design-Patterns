@@ -190,7 +190,11 @@ Without violating encapsulation, captures and externalizes an object's internal 
 
 > Allows a client to choose an algorithm from a group of algorithms and gives it a simple way to access it.
 
+## Template Method Pattern:
+* Gang of Four:
 
+> - Defines the skelton of an algorithm in an operation, deferring some steps to subclasses.
+> - Lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure.
 
 
 
