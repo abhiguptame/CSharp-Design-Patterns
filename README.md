@@ -110,9 +110,19 @@ Encapsulates a request as an object, thereby letting us parameterize clients wit
 
 ## Interpreter Pattern:
 * Gang of Four:
+
 Given a language, defines a representation for its grammar along with an interpreter that uses the representation to interpret sentences in the language.
 
 > A translator
+
+## Mediator Pattern:
+* Gang of Four:
+
+> - Defines an object that encapsulates how a set of objects interact.
+> - Promotes loose coupling by keeping objects from referring to each other explicitly, and lets us vary their interaction independently.
+
+> Lets us control the communication between each object.
+
 
 
 
