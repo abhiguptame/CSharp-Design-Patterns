@@ -138,5 +138,13 @@ Specifies the kinds of objects to create using a prototypical instance and creat
 
 > The goal of the prototype pattern is to create an object based on another object.
 
+## Bridge Pattern:
+* Gang of Four:
+
+Decouple an abstraction from its implementation so that the two can vary independently.
+
+> Used to separate an abstraction from its implementation so both are modified independently.
+
+
 
 
