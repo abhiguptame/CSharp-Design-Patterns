@@ -123,8 +123,13 @@ Given a language, defines a representation for its grammar along with an interpr
 
 > Lets us control the communication between each object.
 
+## Visitor Pattern:
+* Gang of Four:
 
+> - Represents an operation to be performed on the elements of an object structure.
+> - Lets us define a new operation without changing the classes of the elements on which it operates.
 
+> Lets us add and perform new functionality on objects without changing its structure which might cause problems.
 
 
 
