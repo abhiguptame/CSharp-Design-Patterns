@@ -166,3 +166,14 @@ Uses sharing to support large numbers of fine-grained objects efficiently.
 Provides a surrogate or placeholder for another object to control access to it.
 
 > Provides objects that refernce objects for their functionality.
+
+## Memento Pattern:
+* Gang of Four:
+
+Without violating encapsulation, captures and externalizes an object's internal state so that the object can be restored to this state later.
+
+> Used to track states of an object to go back and forth to.
+
+
+
+
